@@ -8,15 +8,15 @@ This repo contains the code developed for the Data Mining I project. The content
 Feel free to add your own ideas and notebooks :) 
 
 Models which we intend to explore (Pick one or two and write your name behind it): 
-- Logistic Regression
-- Naive Bayes
-- Decision Tree
-- Random Forest
-- XGBoost
-- Support Vector Machine
-- KNN (classifier)
+- Logistic Regression -
+- Naive Bayes - Artem
+- Decision Tree - Miguel
+- Random Forest - Julian
+- XGBoost - Nico
+- Support Vector Machine - 
+- KNN (classifier) - Liza
 
-My additional ideas would be: 
+## Additional ideas 
 - Scrape Web data for song lyrics to generate features via basic NLP techniques
 - Include additional datasets that may include performance enhancing features
 - Use semi-supervised learning techniques (as clustering would make sense, even though the data is labeled(e.g. feature generation))
